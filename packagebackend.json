@@ -1,0 +1,22 @@
+{
+  "name": "sonarlink",
+  "version": "1.0.0",
+  "description": "Decentralized Music Platform",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "SonarLink",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^16.0.3"
+  }
+}
